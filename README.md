@@ -3,7 +3,7 @@
 [![CodeQL](https://github.com/ziv/local-storage/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ziv/local-storage/actions/workflows/codeql-analysis.yml)
 [![codecov](https://codecov.io/gh/ziv/local-storage/branch/main/graph/badge.svg?token=NTYSCHNSS1)](https://codecov.io/gh/ziv/local-storage)
 
-AsyncLocalStorage middleware.
+[AsyncLocalStorage](https://nodejs.org/api/async_context.html#async_context_class_asynclocalstorage) middleware. 
 
 ## Install
 ```shell
@@ -23,7 +23,7 @@ const app = express();
 // this middleware run, can access the [[Request]]
 // and the [[Response]] of the same context using
 // the [[getStore]] function.
-app.use(localStorage);
+app.use(localStorage());
 
 app.use((req, res, next) => {
   req.locals.RAND = generateRandNumber();
