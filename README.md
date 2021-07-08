@@ -1,4 +1,7 @@
 # local-storage
+[![CI](https://github.com/ziv/local-storage/actions/workflows/main.yml/badge.svg)](https://github.com/ziv/local-storage/actions/workflows/main.yml)
+[![CodeQL](https://github.com/ziv/local-storage/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/ziv/local-storage/actions/workflows/codeql-analysis.yml)
+[![codecov](https://codecov.io/gh/ziv/local-storage/branch/main/graph/badge.svg?token=NTYSCHNSS1)](https://codecov.io/gh/ziv/local-storage)
 
 AsyncLocalStorage middleware.
 
