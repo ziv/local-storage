@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziv/local-storag.git"
+    "url": "git+https://github.com/ziv/local-storage.git"
   },
   "publishConfig": {
     "access": "public"
@@ -22,9 +22,9 @@
   "author": "Ziv Perry (@xpr)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ziv/local-storag/issues"
+    "url": "https://github.com/ziv/local-storage/issues"
   },
-  "homepage": "https://github.com/ziv/local-storag#readme",
+  "homepage": "https://github.com/ziv/local-storage#readme",
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",
     "@semantic-release/commit-analyzer": "^8.0.1",
