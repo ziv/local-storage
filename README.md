@@ -47,4 +47,6 @@ function logger(message: string) {
 
 
 ![xpr-local-storage](https://badgen.net/github/license/ziv/local-storage)
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg)
+![@xpr](https://badgen.net/badge/powered%20by/@xpr/pink)
 
