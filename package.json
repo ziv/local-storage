@@ -2,6 +2,7 @@
   "name": "@xpr/local-storage",
   "version": "0.0.0",
   "description": "AsyncLocalStorage middleware",
+  "main": "index.js",
   "scripts": {
     "prebuild": "rm -rf lib",
     "build": "tsc --build tsconfig.build.json",
