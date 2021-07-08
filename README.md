@@ -41,5 +41,10 @@ function logger(message: string) {
     console.log(null, message);
   }
 }
-// 
 ```
+
+---
+
+
+![xpr-local-storage](https://badgen.net/github/license/ziv/local-storage)
+
