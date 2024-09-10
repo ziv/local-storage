@@ -5,5 +5,4 @@ lib
 dist
 tmp
 .idea
-.npmrc
 tsconfig.tsbuildinfo
