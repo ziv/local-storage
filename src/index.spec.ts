@@ -1,4 +1,4 @@
-import { AsyncContext, getStore, localStorage } from '@/index';
+import { AsyncContext, getStore, localStorage } from '.';
 import { Request, Response } from 'express';
 
 describe('local-storage', () => {
