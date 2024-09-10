@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ziv/local-storage/compare/v1.0.0...v1.1.0) (2024-09-10)
+
+
+### Features
+
+* update deps ([bea6656](https://github.com/ziv/local-storage/commit/bea6656121b57531f20efbf45ded04cbba75b42a))
+
 # 1.0.0 (2021-07-08)
 
 
